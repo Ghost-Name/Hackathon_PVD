@@ -6,13 +6,12 @@
 4) создаёт test.xlsx с предсказанной вероятностью ухода клиента
 
 ## после окончания выполнения файла filter_bd.py в консоли будет высвечено сообщение: Файл test.xlsx создан в uploaded_files
-![вставить скрин из таблицы]
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Table](https://github.com/Ghost-Name/Hackathon_PVD/blob/PNG/PNG/table.png)
 
 ## start_ml.py - самостоятельно находит файл test.xlsx.
 1) пример ввода параметров фильтра приложен в самом фале
 2) вывод: ID клиента и его вероятность ухода в процентах
 
-![вставить скрин работы из консоли]
+![Console](https://github.com/Ghost-Name/Hackathon_PVD/blob/PNG/PNG/start_ml.png)
 
 
